@@ -7,5 +7,6 @@ public class GoodEvening {
 
 		System.out.println("My name is Maria");
 		System.out.println("My name is Maria");
+		System.out.println("My name is Maria");
 	}
 }
